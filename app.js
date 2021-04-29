@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', event => {
       trail.style.left = `${x}px`;
       document.body.appendChild(trail)
     })
-  }, 100);
+  }, 10);
 
 
 })
